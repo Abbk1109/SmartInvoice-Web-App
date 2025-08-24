@@ -1,0 +1,5 @@
+{
+  "name": "SmartInvoice Web App",
+  "description": "SmartInvoice is a full-stack invoicing platform designed for small businesses to automate billing, reduce errors, and accelerate payments. This is the frontend implementation using React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
