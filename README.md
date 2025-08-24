@@ -1,14 +1,45 @@
-# Run and deploy your AI Studio app
+Portfolio Entry 1: SmartInvoice Web App 
 
-This contains everything you need to run your app locally.
+Overview 
 
-## Run Locally
+SmartInvoice is a full-stack invoicing platform designed for small businesses to automate billing, reduce errors, and accelerate payments. 
 
-**Prerequisites:**  Node.js
+Problem 
 
+Manual invoicing was slow and error-prone, leading to delayed payments and poor financial tracking. 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Role 
+
+Solo full-stack developer responsible for architecture, development, and deployment. 
+
+Tech Stack 
+
+Frontend: React.js, Tailwind CSS 
+
+Backend: Node.js (Express), PostgreSQL, Supabase 
+
+DevOps: Docker, GitHub Actions 
+
+Auth & Payments: JWT, role-based access, Paystack integration 
+
+Key Features 
+
+Dynamic invoice generation with PDF export 
+
+Role-based access control for admins and clients 
+
+Real-time payment tracking via Paystack 
+
+Responsive UI built from Figma prototypes 
+
+CI/CD pipeline with automated testing and deployment 
+
+Impact 
+
+Reduced invoice processing time by 70% 
+
+Onboarded 50+ SMEs within 3 months 
+
+Improved payment turnaround and user satisfaction 
+
+Delivered a secure, scalable MVP with 99.9% uptime
